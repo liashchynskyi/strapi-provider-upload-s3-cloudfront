@@ -40,10 +40,7 @@
     "cloudfront",
     "upload"
   ],
-  "repository": {
-    "type": "git",
-    "directory": "git://github.com/liashchynskyi/strapi-provider-upload-s3-cloudfront.git"
-  },
+  "repository": "github:liashchynskyi/strapi-provider-upload-s3-cloudfront",
   "module": "dist/strapi-provider-upload-s3-cloudfront.esm.js",
   "size-limit": [
     {
