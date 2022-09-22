@@ -6,7 +6,7 @@
     "lib": ["dom", "esnext"],
     "importHelpers": true,
     "declaration": true,
-    "sourceMap": true,
+    "sourceMap": false,
     "rootDir": "./src",
     "strict": true,
     "noImplicitReturns": true,
@@ -17,6 +17,7 @@
     "esModuleInterop": true,
     "skipLibCheck": true,
     "forceConsistentCasingInFileNames": true,
-    "noEmit": true
+    "noEmit": true,
+    "removeComments": true
   }
 }
