@@ -1,6 +1,6 @@
 # Why?
 
-This plugin is based on [https://www.npmjs.com/package/@strapi/provider-upload-aws-s3](https://www.npmjs.com/package/@strapi/provider-upload-aws-s3) with the ability to serve files from Cloudfront. Build with `@aws-sdk/client-s3`.
+This plugin is based on [https://www.npmjs.com/package/@strapi/provider-upload-aws-s3](https://www.npmjs.com/package/@strapi/provider-upload-aws-s3) with the ability to serve files from Cloudfront. Built with `@aws-sdk/client-s3`.
 
 # Installation
 
